@@ -1,4 +1,18 @@
 
 # Created by kernel Makefile.
 .cache.mk
+xoro.mod.c
+modules.order
+*.cmd
+Module.symvers
+.tmp_versions
+
+# Object files
+*.o
+
+# Kernel module
+xoro.ko
+
+# Test executable
+test_xoro
 
