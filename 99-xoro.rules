@@ -1,0 +1,1 @@
+KERNEL=="xoroshiro128p", SUBSYSTEM=="xoro", MODE="0444"
